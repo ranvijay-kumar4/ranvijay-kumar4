@@ -15,4 +15,4 @@
             user_name: ranvijay-kumar4
             # Text on contribution graph 
             text: RANVIJAY
-       - uses: ranvijay/simple-push-action@v1
+       - uses: ranvijay-kumar4/simple-push-action@v1
