@@ -2,7 +2,6 @@
 
 ###
 
-![Snake animation](https://github.com/{{ranvijay-kumar4}}/{{ranvijay-kumar4}}/blob/output/github-contribution-grid-snake.svg)
 
 <div align="center">
   <img height="300" src="https://media.giphy.com/media/11j5OF7BTglVkc/giphy.gif?cid=ecf05e47rt2fz4vxm9lma95sbhb8unz481cpl1dbdm6edura&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
