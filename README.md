@@ -1,6 +1,7 @@
 <h2 align="left">Hi 👋! <br>My name is Ranvijay Kumar 🙎<br>from Delhi, India.</h2>
 
 ###
+![gitartwork](gitartwork.svg)
 ###
 <div align="center">
   <img height="300" src="https://media.giphy.com/media/11j5OF7BTglVkc/giphy.gif?cid=ecf05e47rt2fz4vxm9lma95sbhb8unz481cpl1dbdm6edura&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
