@@ -80,6 +80,6 @@
 
 ###
 
-<h4 align="center">💙 If you like my projects, Give them ⭐ and Share it with friends!<br><br>Made with ❤️ in India</h4>
+<h4 align="center">💙 If you like my projects, Give them ⭐ <br><br>From India❤️ </h4>
 
 ###
