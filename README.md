@@ -1,8 +1,12 @@
-<h2 align="left">Hi 👋! <br>My name is Ranvijay Kumar 🙎<br>from Delhi, India.</h2>
+
+<h2 align="left">Hi 👋! <br>My name is Ranvijay Kumar 🙎<br>from Delhi, India 🤞.<br><br>Please have a look on my profile and repos.</h2>
+
+###
 
 ###
 ![gitartwork](gitartwork.svg)
 ###
+
 <div align="center">
   <img height="300" src="https://media.giphy.com/media/11j5OF7BTglVkc/giphy.gif?cid=ecf05e47rt2fz4vxm9lma95sbhb8unz481cpl1dbdm6edura&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 </div>
@@ -20,13 +24,17 @@
   <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
   <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="vscode logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="c logo"  />
   <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo"  />
   <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo"  />
   <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="c logo"  />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="50" alt="tailwindcss logo"  />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="vscode logo"  />
+  <img width="30" />
+  <img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo"  />
   <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo"  />
   <img width="30" />
@@ -57,29 +65,33 @@
   <a href="https://www.linkedin.com/in/ranvijay-kumar4/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="100" height="50" alt="linkedin logo"  />
   </a>
+  <a href="https://twitter.com/ranvijay_kumar4" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="100" height="50" alt="twitter logo"  />
+  </a>
   <a href="https://www.instagram.com/ranvijay_kumar4/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="100" height="50" alt="instagram logo"  />
   </a>
   <a href="https://www.hackerrank.com/profile/ranvijay_kumar4" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="100" height="50" alt="hackerrank logo"  />
   </a>
-  <a href="https://twitter.com/ranvijay_kumar4" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="100" height="50" alt="twitter logo"  />
-  </a>
 </div>
 
 ###
 
-<h3 align="left">What I do ....</h3>
+<h3 align="left">Engaged in the path of career growth with knowledge as a achivement.</h3>
 
 ###
 
-<div align="center">
-  <img height="350" src="https://camo.githubusercontent.com/d75fb6e4658acbb4b5741a6c1f41f5cae3b4010235bc85cabc3cbb92f7890c8d/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6639586748486e506e446a4f46316857706c2f67697068792e676966"  />
-</div>
+<img align="right" height="286" src="https://camo.githubusercontent.com/d75fb6e4658acbb4b5741a6c1f41f5cae3b4010235bc85cabc3cbb92f7890c8d/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6639586748486e506e446a4f46316857706c2f67697068792e676966"  />
 
 ###
 
-<h4 align="center">💙 If you like my projects, Give them ⭐ <br><br>From India❤️ </h4>
+<img align="left" height="300" src="https://hiddenfrontdoor.org/wp-content/uploads/2020/12/tenor.gif"  />
+
+###
+
+<br clear="both">
+
+<h4 align="center">💙 If you like my projects, Give them ⭐<br><br>💕<br><br>Thank You For Visiting my profile 💖</h4>
 
 ###
