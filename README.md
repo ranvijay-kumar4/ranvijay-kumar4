@@ -1,4 +1,3 @@
-
 <br clear="both">
 
 <h2 align="left">Hi 👋! <br>My name is Ranvijay Kumar 🙎<br>from Delhi, India 🤞.<br><br>Please have a look on my profile and repos.</h2>
@@ -9,23 +8,17 @@
 
 ###
 
-<img align="right" height="200" src="https://miro.medium.com/v2/resize:fit:1358/0*ygaHmPjQnVmEApdT.gif"  />
+<img align="left" height="350" src="https://media.giphy.com/media/11j5OF7BTglVkc/giphy.gif?cid=ecf05e47rt2fz4vxm9lma95sbhb8unz481cpl1dbdm6edura&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 ###
 
-<img align="left" height="200" src="https://media.giphy.com/media/11j5OF7BTglVkc/giphy.gif?cid=ecf05e47rt2fz4vxm9lma95sbhb8unz481cpl1dbdm6edura&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+<img align="right" height="350" src="https://miro.medium.com/v2/resize:fit:1358/0*ygaHmPjQnVmEApdT.gif"  />
 
 ###
 
 <br clear="both">
 
 <h2 align="left">--> Languages and frameworks am familiar with ...</h2>
-
-###
-
-<br clear="both">
-
-<img align="right" height="200" src="https://i.pinimg.com/originals/62/39/4d/62394d753859943e6a1a36443ef78795.gif"  />
 
 ###
 
@@ -49,9 +42,17 @@
 
 <br clear="both">
 
+<img align="right" height="300" src="https://i.pinimg.com/originals/62/39/4d/62394d753859943e6a1a36443ef78795.gif"  />
+
+###
+
+<br clear="both">
+
 <h3 align="left">--> Tools that I used yet and have experience in ...</h3>
 
 ###
+
+<br clear="both">
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="vscode logo"  />
@@ -65,7 +66,7 @@
 
 <br clear="both">
 
-<img align="right" height="200" src="https://i.pinimg.com/originals/05/a1/68/05a168c4a0fc699de7edbf94cde8de96.gif"  />
+<img align="right" height="300" src="https://i.pinimg.com/originals/05/a1/68/05a168c4a0fc699de7edbf94cde8de96.gif"  />
 
 ###
 
@@ -87,7 +88,7 @@
 
 <br clear="both">
 
-<img align="right" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc295aXE4YXZhMGxqbmVlYXhqeWszdm1zc2kxZ3YwNDkya2s3bWNybiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/AdtB8TtizElk0OrRGR/giphy.gif"  />
+<img align="right" height="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc295aXE4YXZhMGxqbmVlYXhqeWszdm1zc2kxZ3YwNDkya2s3bWNybiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/AdtB8TtizElk0OrRGR/giphy.gif"  />
 
 ###
 
