@@ -93,6 +93,8 @@
 
 <br clear="both">
 
+<br clear="both">
+
 <h2 align="left">My Social profiles ........</h2>
 
 ###
@@ -119,6 +121,10 @@
 <h1 align="center">Engaged in the path of career growth with knowledge as a achivement.</h1>
 
 ###
+
+<br clear="both">
+
+<br clear="both">
 
 <h4 align="center">💙 If you like my projects, Give them ⭐<br><br>💕<br><br>Thank You For Visiting my profile 💖</h4>
 
