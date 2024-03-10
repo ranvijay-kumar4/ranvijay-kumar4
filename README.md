@@ -1,23 +1,33 @@
 
-<h2 align="left">Hi 👋! <br>My name is Ranvijay Kumar 🙎<br>from Delhi, India 🤞.<br><br>Please have a look on my profile and repos.</h2>
+<br clear="both">
 
-###
+<h2 align="left">Hi 👋! <br>My name is Ranvijay Kumar 🙎<br>from Delhi, India 🤞.<br><br>Please have a look on my profile and repos.</h2>
 
 ###
 ![gitartwork](gitartwork.svg)
 ###
 
-<div align="center">
-  <img height="300" src="https://media.giphy.com/media/11j5OF7BTglVkc/giphy.gif?cid=ecf05e47rt2fz4vxm9lma95sbhb8unz481cpl1dbdm6edura&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
-</div>
+###
+
+<img align="right" height="350" src="https://miro.medium.com/v2/resize:fit:1358/0*ygaHmPjQnVmEApdT.gif"  />
 
 ###
 
-<h3 align="left">-- Languages, Tools and Platforms Used Yet ...</h3>
+<img align="left" height="350" src="https://media.giphy.com/media/11j5OF7BTglVkc/giphy.gif?cid=ecf05e47rt2fz4vxm9lma95sbhb8unz481cpl1dbdm6edura&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 ###
 
 <br clear="both">
+
+<h2 align="left">--> Languages and frameworks am familiar with ...</h2>
+
+###
+
+<br clear="both">
+
+<img align="right" height="300" src="https://i.pinimg.com/originals/62/39/4d/62394d753859943e6a1a36443ef78795.gif"  />
+
+###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="cplusplus logo"  />
@@ -32,30 +42,58 @@
   <img width="30" />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="50" alt="tailwindcss logo"  />
   <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<h3 align="left">--> Tools that I used yet and have experience in ...</h3>
+
+###
+
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="vscode logo"  />
   <img width="30" />
   <img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo"  />
   <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo"  />
-  <img width="30" />
+</div>
+
+###
+
+<br clear="both">
+
+<img align="right" height="300" src="https://i.pinimg.com/originals/05/a1/68/05a168c4a0fc699de7edbf94cde8de96.gif"  />
+
+###
+
+<br clear="both">
+
+<h3 align="left">--> Platforms on which I worked upon ...</h3>
+
+###
+
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="postgresql logo"  />
   <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="50" alt="googlecloud logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
-  <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="mysql logo"  />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="50" alt="googlecloud logo"  />
 </div>
 
 ###
 
-<div align="center">
-  <img height="300" src="https://camo.githubusercontent.com/cb84444a033f283101179fd899805992b1a85deaaf8188e3dada0b3c93875296/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f33466a4550624b7145506850706d433875592f67697068792e676966"  />
-</div>
+<br clear="both">
+
+<img align="right" height="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc295aXE4YXZhMGxqbmVlYXhqeWszdm1zc2kxZ3YwNDkya2s3bWNybiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/AdtB8TtizElk0OrRGR/giphy.gif"  />
 
 ###
 
-<h3 align="left">My Social profiles ........</h3>
+<br clear="both">
+
+<h2 align="left">My Social profiles ........</h2>
 
 ###
 
@@ -78,20 +116,16 @@
 
 ###
 
-<h3 align="left">Engaged in the path of career growth with knowledge as a achivement.</h3>
+<h1 align="center">Engaged in the path of career growth with knowledge as a achivement.</h1>
 
 ###
-
-<img align="right" height="286" src="https://camo.githubusercontent.com/d75fb6e4658acbb4b5741a6c1f41f5cae3b4010235bc85cabc3cbb92f7890c8d/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6639586748486e506e446a4f46316857706c2f67697068792e676966"  />
-
-###
-
-<img align="left" height="300" src="https://hiddenfrontdoor.org/wp-content/uploads/2020/12/tenor.gif"  />
-
-###
-
-<br clear="both">
 
 <h4 align="center">💙 If you like my projects, Give them ⭐<br><br>💕<br><br>Thank You For Visiting my profile 💖</h4>
+
+###
+
+<div align="center">
+  <img height="300" src="https://hiddenfrontdoor.org/wp-content/uploads/2020/12/tenor.gif"  />
+</div>
 
 ###
