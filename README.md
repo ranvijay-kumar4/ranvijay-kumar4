@@ -1,5 +1,5 @@
 <br clear="both">
-<h1 align="left">Hello 👋! </h1>
+<h1 align="left">Hello! 👋 Viewers 😃</h1>
 <br> 
 <h3> As a B.Tech Information Technology (I.T.) student🧑‍🎓 at Jabalpur Engineering College, I possess a strong foundation in computer💻 science principles and programming languages. My skills include proficiency in C++, as well as experience in data structures, algorithms, and software development methodologies. I am eager to apply my knowledge and skills to solve real-world🌎 problems and contribute to the field of technology. </h3> 
 <br>
