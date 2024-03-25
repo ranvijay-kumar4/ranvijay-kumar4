@@ -10,12 +10,9 @@ Currently, I am upgrading to strengthen my problem solving skills and experience
 As learner with a growth mindset, I embrace challenges and am constantly seeking new opportunities to expand my knowledge and expertise. I thrive in collaborative environments and am eager to contribute my skills to exciting and innovative projects.
 With a strong sense of continuous learning and passion for coding as well as management skills, I continue to grow as a professional capable of making a positive impact in the software development industry.🙎 </h3>
 <br>
-<br> 
 <h2> I'm from Delhi, India 🤞. </h2>
 <br>
-<br>
-<h2 align="center">Please have a look on my profile and repos.</h2>
-<br>
+<h2 align="center">Please have a look on my profile and repositories.</h2>
 <h2 align="center">🙏🙏🙏</h2>
 
 ###
