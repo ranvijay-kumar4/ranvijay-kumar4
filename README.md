@@ -1,8 +1,6 @@
 <br clear="both">
 <h1 align="left">Hello! 👋 Viewers 😃</h1>
 <br> 
-<h3> As a B.Tech Information Technology (I.T.) student🧑‍🎓 at Jabalpur Engineering College, I possess a strong foundation in computer💻 science principles and programming languages. My skills include proficiency in C++, as well as experience in data structures, algorithms, and software development methodologies. I am eager to apply my knowledge and skills to solve real-world🌎 problems and contribute to the field of technology. </h3> 
-<br>
   <br>
   <h2>
 Currently, I am learning Data Structures and Algorithms (DSAs) in C++ to strengthen my problem solving skills and experience. I am having knowledge in C, Python, MySQL, Postgre SQL, Frontend Skills using HTML, TAILWIND CSS, and JAVASCRIPT. Also am continuously upskilling myself by learning React.js </h2>
