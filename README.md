@@ -5,7 +5,7 @@
 <br>
   <br>
   <h2>
-Currently, I am upgrading to strengthen my problem solving skills and experience in Data Structures and Algorithms (DSAs) in C++. I am having knowledge in C, Python, MySQL, Postgre SQL, Frontend Skills using HTML, TAILWIND CSS, and JAVASCRIPT. Also am continuously upskilling myself by learning React.js </h2>
+Currently, I am learning Data Structures and Algorithms (DSAs) in C++ to strengthen my problem solving skills and experience. I am having knowledge in C, Python, MySQL, Postgre SQL, Frontend Skills using HTML, TAILWIND CSS, and JAVASCRIPT. Also am continuously upskilling myself by learning React.js </h2>
 <br>
   <br>
 <h3> As learner with a growth mindset, I embrace challenges and am constantly seeking new opportunities to expand my knowledge and expertise. I thrive in collaborative environments and am eager to contribute my skills to exciting and innovative projects.
