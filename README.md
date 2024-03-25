@@ -1,6 +1,21 @@
 <br clear="both">
 
-<h2 align="left">Hi 👋! <br>My name is Ranvijay Kumar 🙎<br>from Delhi, India 🤞.<br><br>Please have a look on my profile and repos.</h2>
+<h1 align="left">Hello 👋! </h1>
+<br> 
+<br> <h3> As a B.Tech Information Technology (I.T.) student🧑‍🎓 at Jabalpur Engineering College, I possess a strong foundation in computer💻 science principles and programming languages. My skills include proficiency in C++, as well as experience in data structures, algorithms, and software development methodologies. I am eager to apply my knowledge and skills to solve real-world🌎 problems and contribute to the field of technology.  
+<br>
+Currently, I am upgrading to strengthen my problem solving skills and experience in Data Structures and Algorithms (DSAs) in C++. I am having knowledge in C, Python, MySQL, Postgre SQL, Frontend Skills using HTML, TAILWIND CSS, and JAVASCRIPT. Also am continuously upskilling myself by learning React.js
+<br>
+As learner with a growth mindset, I embrace challenges and am constantly seeking new opportunities to expand my knowledge and expertise. I thrive in collaborative environments and am eager to contribute my skills to exciting and innovative projects.
+With a strong sense of continuous learning and passion for coding as well as management skills, I continue to grow as a professional capable of making a positive impact in the software development industry.🙎 </h3>
+<br>
+<br> 
+<h2> I'm from Delhi, India 🤞. </h2>
+<br>
+<br>
+<h2 align="center">Please have a look on my profile and repos.</h2>
+<br>
+<h2 align="center">🙏🙏🙏</h2>
 
 ###
 ![gitartwork](gitartwork.svg)
