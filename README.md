@@ -12,7 +12,7 @@ With a strong sense of continuous learning and passion for coding as well as man
 <br>
 <h2> I'm from Delhi, India 🤞. </h2>
 <br>
-<h2 align="center">Please have a look on my profile and repositories.<br> 🙂 </h2>
+<h2 align="center"> 🙂 Please have a look on my profile and repositories💖.<br><br> 👇✌️ </h2>
 
 ###
 ![gitartwork](gitartwork.svg)
