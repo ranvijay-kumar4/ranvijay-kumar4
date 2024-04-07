@@ -171,9 +171,10 @@ With a strong sense of continuous learning and passion for coding as well as man
 
 <br clear="both">
 
+<div align="center">
 ### <h1>😂 Random Dev Meme </h1>
-<img align="center" src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;" />
+</div>
 <br clear="both">
 
 <h4 align="center">💙 If you like my projects, Give them ⭐<br><br>💕<br><br>Thank You For Visiting my profile 💖</h4>
