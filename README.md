@@ -56,7 +56,7 @@ With a strong sense of continuous learning and passion for coding as well as man
 
 <br clear="both">
 
-<img align="right" height="150" src="https://i.pinimg.com/originals/62/39/4d/62394d753859943e6a1a36443ef78795.gif"  />
+<img align="right" height="150" src="https://i.pinimg.com/originals/05/a1/68/05a168c4a0fc699de7edbf94cde8de96.gif"  />
 
 ###
 
@@ -80,7 +80,7 @@ With a strong sense of continuous learning and passion for coding as well as man
 
 <br clear="both">
 
-<img align="right" height="150" src="https://i.pinimg.com/originals/05/a1/68/05a168c4a0fc699de7edbf94cde8de96.gif"  />
+<img align="right" height="150" src="https://i.pinimg.com/originals/62/39/4d/62394d753859943e6a1a36443ef78795.gif"  />
 
 ###
 
