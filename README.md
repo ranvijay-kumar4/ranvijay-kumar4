@@ -160,9 +160,9 @@ With a strong sense of continuous learning and passion for coding as well as man
 ## <h1>🏆 GitHub Trophies</h1>
 ![](https://github-profile-trophy.vercel.app/?username=ranvijay-kumar4&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-/*## <h1> 👨‍💻 LeetCode </h1>
+## <h1> 👨‍💻 LeetCode </h1>
 <img src="https://leetcode-badge-showcase.vercel.app/api?username=ranvijay-kumar4&theme=github-drak" alt="LeetCode Badges"/>
-*/
+
 ###
 
 <h1 align="center">Engaged in the path of career growth with knowledge as a achivement.</h1>
