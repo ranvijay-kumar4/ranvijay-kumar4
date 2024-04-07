@@ -1,35 +1,33 @@
 <br clear="both">
 <h1 align="left">Hello! 👋 Viewers 😃</h1>
 <br> 
-  <br>
-  <h2>
-Currently, I am learning Data Structures and Algorithms (DSAs) in C++ to strengthen my problem solving skills and experience. I am having knowledge in C, Python, MySQL, Postgre SQL, Frontend Skills using HTML, TAILWIND CSS, and JAVASCRIPT. Also am continuously upskilling myself by learning React.js </h2>
+  <h4>
+Currently, I am learning Data Structures and Algorithms (DSAs) in C++ to strengthen my problem solving skills and experience. I am having knowledge in C, Python, MySQL, Postgre SQL, Frontend Skills using HTML, TAILWIND CSS, and JAVASCRIPT. Also am continuously upskilling myself by learning React.js </h4>
 <br>
 <h1>💫 About Me :</h1> 
-  <br>
-<h3> As learner with a growth mindset, I embrace challenges and am constantly seeking new opportunities to expand my knowledge and expertise. I thrive in collaborative environments and am eager to contribute my skills to exciting and innovative projects.
-With a strong sense of continuous learning and passion for coding as well as management skills, I continue to grow as a professional capable of making a positive impact in the software development industry.🙎 </h3>
+<h4> As learner with a growth mindset, I embrace challenges and am constantly seeking new opportunities to expand my knowledge and expertise. I thrive in collaborative environments and am eager to contribute my skills to exciting and innovative projects.
+With a strong sense of continuous learning and passion for coding as well as management skills, I continue to grow as a professional capable of making a positive impact in the software development industry.🙎 </h4>
 <br>
-<h2> I'm from Delhi, India 🤞. </h2>
+<h3> I'm from Delhi, India 🤞. </h3>
 <br>
 <h2 align="center"> 🙂 Please have a look on my profile and repositories💖.<br><br> 👇✌️ </h2>
-
+<br>
 ###
 ![gitartwork](gitartwork.svg)
 ###
 
 ###
 
-<img align="left" height="200" src="https://media.giphy.com/media/11j5OF7BTglVkc/giphy.gif?cid=ecf05e47rt2fz4vxm9lma95sbhb8unz481cpl1dbdm6edura&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+<img align="left" height="150" src="https://media.giphy.com/media/11j5OF7BTglVkc/giphy.gif?cid=ecf05e47rt2fz4vxm9lma95sbhb8unz481cpl1dbdm6edura&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 ###
 
-<img align="right" height="200" src="https://miro.medium.com/v2/resize:fit:1358/0*ygaHmPjQnVmEApdT.gif"  />
+<img align="right" height="150" src="https://miro.medium.com/v2/resize:fit:1358/0*ygaHmPjQnVmEApdT.gif"  />
 
 ###
 
 <br clear="both">
-
+<br>
 <h2 align="left">--> Languages and frameworks am familiar with ...</h2>
 
 ###
@@ -58,7 +56,7 @@ With a strong sense of continuous learning and passion for coding as well as man
 
 <br clear="both">
 
-<img align="right" height="200" src="https://i.pinimg.com/originals/62/39/4d/62394d753859943e6a1a36443ef78795.gif"  />
+<img align="right" height="150" src="https://i.pinimg.com/originals/62/39/4d/62394d753859943e6a1a36443ef78795.gif"  />
 
 ###
 
@@ -82,7 +80,7 @@ With a strong sense of continuous learning and passion for coding as well as man
 
 <br clear="both">
 
-<img align="right" height="200" src="https://i.pinimg.com/originals/05/a1/68/05a168c4a0fc699de7edbf94cde8de96.gif"  />
+<img align="right" height="150" src="https://i.pinimg.com/originals/05/a1/68/05a168c4a0fc699de7edbf94cde8de96.gif"  />
 
 ###
 
@@ -104,7 +102,7 @@ With a strong sense of continuous learning and passion for coding as well as man
 
 <br clear="both">
 
-<img align="right" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc295aXE4YXZhMGxqbmVlYXhqeWszdm1zc2kxZ3YwNDkya2s3bWNybiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/AdtB8TtizElk0OrRGR/giphy.gif"  />
+<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc295aXE4YXZhMGxqbmVlYXhqeWszdm1zc2kxZ3YwNDkya2s3bWNybiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/AdtB8TtizElk0OrRGR/giphy.gif"  />
 
 ###
 
@@ -162,9 +160,9 @@ With a strong sense of continuous learning and passion for coding as well as man
 ## <h1>🏆 GitHub Trophies</h1>
 ![](https://github-profile-trophy.vercel.app/?username=ranvijay-kumar4&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-## <h1> 👨‍💻 LeetCode </h1>
+/*## <h1> 👨‍💻 LeetCode </h1>
 <img src="https://leetcode-badge-showcase.vercel.app/api?username=ranvijay-kumar4&theme=github-drak" alt="LeetCode Badges"/>
-
+*/
 ###
 
 <h1 align="center">Engaged in the path of career growth with knowledge as a achivement.</h1>
@@ -173,8 +171,8 @@ With a strong sense of continuous learning and passion for coding as well as man
 
 <br clear="both">
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+### <h1>😂 Random Dev Meme </h1>
+<img align="center" src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 <br clear="both">
 
@@ -183,7 +181,7 @@ With a strong sense of continuous learning and passion for coding as well as man
 ###
 
 <div align="center">
-  <img height="300" src="https://hiddenfrontdoor.org/wp-content/uploads/2020/12/tenor.gif"  />
+  <img height="200" src="https://hiddenfrontdoor.org/wp-content/uploads/2020/12/tenor.gif"  />
 </div>
 
 ###
