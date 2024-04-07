@@ -1,6 +1,5 @@
 <br clear="both">
 <h1 align="left">Hello! 👋 Viewers 😃</h1>
-<br> 
   <h4>
 Currently, I am learning Data Structures and Algorithms (DSAs) in C++ to strengthen my problem solving skills and experience. I am having knowledge in C, Python, MySQL, Postgre SQL, Frontend Skills using HTML, TAILWIND CSS, and JAVASCRIPT. Also am continuously upskilling myself by learning React.js </h4>
 <br>
@@ -12,6 +11,7 @@ With a strong sense of continuous learning and passion for coding as well as man
 <br>
 <h2 align="center"> 🙂 Please have a look on my profile and repositories💖.<br><br> 👇✌️ </h2>
 <br>
+
 ###
 ![gitartwork](gitartwork.svg)
 ###
