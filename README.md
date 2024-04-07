@@ -139,7 +139,31 @@ With a strong sense of continuous learning and passion for coding as well as man
 
 [![](https://visitcount.itsvg.in/api?id=ranvijay-kumar4&icon=6&color=0)](https://visitcount.itsvg.in)
 
+<br>
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ranvijay-kumar4&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
+
+<span width="50px"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span>
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=ranvijay-kumar4&theme=dark&hide_border=false)
+
+</br>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ranvijay-kumar4&theme=dark&hide_border=false&include_all_commits=true&count_private=false&)
+
+<img width="690px" src="https://github-readme-activity-graph.vercel.app/graph?username=ranvijay-kumar4&theme=github">
+</br>
+
+## <h1>🔝 Top Contributed Repo </h1>
+
+![](https://github-contributor-stats.vercel.app/api?username=satendra03&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+## <h1>🏆 GitHub Trophies</h1>
+![](https://github-profile-trophy.vercel.app/?username=satendra03&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+## <h1> 👨‍💻 LeetCode </h1>
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=satendra_03&theme=github-drak" alt="LeetCode Badges"/>
 
 ###
 
@@ -148,6 +172,9 @@ With a strong sense of continuous learning and passion for coding as well as man
 ###
 
 <br clear="both">
+
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 <br clear="both">
 
