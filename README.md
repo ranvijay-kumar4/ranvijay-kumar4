@@ -134,11 +134,12 @@ With a strong sense of continuous learning and passion for coding as well as man
 </div>
 
 <br clear="both">
-
-[![](https://visitcount.itsvg.in/api?id=satendra03&icon=6&color=0)](https://visitcount.itsvg.in)
-
-
 <br clear="both">
+
+
+[![](https://visitcount.itsvg.in/api?id=ranvijay-kumar4&icon=10&color=0)](https://visitcount.itsvg.in)
+
+
 
 ###
 
