@@ -157,13 +157,13 @@ With a strong sense of continuous learning and passion for coding as well as man
 
 ## <h1>🔝 Top Contributed Repo </h1>
 
-![](https://github-contributor-stats.vercel.app/api?username=satendra03&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=ranvijay-kumar4&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ## <h1>🏆 GitHub Trophies</h1>
-![](https://github-profile-trophy.vercel.app/?username=satendra03&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=ranvijay-kumar4&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ## <h1> 👨‍💻 LeetCode </h1>
-<img src="https://leetcode-badge-showcase.vercel.app/api?username=satendra_03&theme=github-drak" alt="LeetCode Badges"/>
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=ranvijay-kumar4&theme=github-drak" alt="LeetCode Badges"/>
 
 ###
 
