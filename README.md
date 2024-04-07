@@ -142,7 +142,7 @@ With a strong sense of continuous learning and passion for coding as well as man
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ranvijay-kumar4&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
 
-<span align="center"> &nbsp;</span>
+<span> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ranvijay-kumar4&theme=dark&hide_border=false) 
 <span> &nbsp; &nbsp; </span>
