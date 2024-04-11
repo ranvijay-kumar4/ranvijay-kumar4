@@ -15,13 +15,7 @@ With a strong sense of continuous learning and passion for coding as well as man
 <br>
 <h2 align="center"> 🙂 Please have a look on my profile and repositories💖.<br><br> 👇✌️ </h2>
 <br>
-###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/ranvijay-kumar4/ranvijay-kumar4/output/snake.svg" alt="Snake animation" />
-
-###
 
 ###
 
