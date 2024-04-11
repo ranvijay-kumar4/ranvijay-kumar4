@@ -17,11 +17,6 @@ With a strong sense of continuous learning and passion for coding as well as man
 <br>
 
 
-<br clear="both">
-
-![snake animation](https://github.com/<seu ranvijay-kumar4>/<seu ranvijay-kumar4>/blob/output/github-contribution-grid-snake2.svg)
-
-###
 ###
 
 <img align="left" height="150" src="https://media.giphy.com/media/11j5OF7BTglVkc/giphy.gif?cid=ecf05e47rt2fz4vxm9lma95sbhb8unz481cpl1dbdm6edura&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
