@@ -150,12 +150,12 @@ With a strong sense of continuous learning and passion for coding as well as man
 
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=ranvijay-kumar4&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 <span> &nbsp; &nbsp; </span>
  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ranvijay-kumar4&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
   
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ranvijay-kumar4&theme=dark&hide_border=false&include_all_commits=true&count_private=false&)
-</div>
 
 <img width="690px" src="https://github-readme-activity-graph.vercel.app/graph?username=ranvijay-kumar4&theme=github">
 </br>
