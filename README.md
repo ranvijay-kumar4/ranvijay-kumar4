@@ -15,7 +15,11 @@ With a strong sense of continuous learning and passion for coding as well as man
 ###
 ![gitartwork](gitartwork.svg)
 ###
+<br clear="both">
 
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
 ###
 
 <img align="left" height="150" src="https://media.giphy.com/media/11j5OF7BTglVkc/giphy.gif?cid=ecf05e47rt2fz4vxm9lma95sbhb8unz481cpl1dbdm6edura&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
@@ -148,6 +152,7 @@ With a strong sense of continuous learning and passion for coding as well as man
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ranvijay-kumar4&theme=dark&hide_border=false) 
 <span> &nbsp; &nbsp; </span>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ranvijay-kumar4&theme=dark&hide_border=false&include_all_commits=true&count_private=false&)
 
 <img width="690px" src="https://github-readme-activity-graph.vercel.app/graph?username=ranvijay-kumar4&theme=github">
