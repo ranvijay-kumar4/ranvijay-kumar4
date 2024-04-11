@@ -19,7 +19,7 @@ With a strong sense of continuous learning and passion for coding as well as man
 
 <br clear="both">
 
-![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://github.com/<seu ranvijay-kumar4>/<seu ranvijay-kumar4>/blob/output/github-contribution-grid-snake2.svg)
 
 ###
 ###
