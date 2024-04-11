@@ -153,16 +153,19 @@ With a strong sense of continuous learning and passion for coding as well as man
   <img src="https://streak-stats.demolab.com?user=ranvijay-kumar4&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 <span> &nbsp; &nbsp; </span>
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ranvijay-kumar4&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ranvijay-kumar4&theme=dark&hide_border=false&include_all_commits=true&count_private=false&)
 
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ranvijay-kumar4&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+
+<div align="center">
 <img width="690px" src="https://github-readme-activity-graph.vercel.app/graph?username=ranvijay-kumar4&theme=github">
 </br>
+</div>
 
 ## <h1>🔝 Top Contributed Repo </h1>
-
+<div align="center">
+  
 ![](https://github-contributor-stats.vercel.app/api?username=ranvijay-kumar4&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ## <h1>🏆 GitHub Trophies</h1>
 ![](https://github-profile-trophy.vercel.app/?username=ranvijay-kumar4&theme=radical&no-frame=false&no-bg=false&margin-w=4)
