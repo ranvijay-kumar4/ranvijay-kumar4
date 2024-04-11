@@ -1,3 +1,7 @@
+###
+![gitartwork](gitartwork.svg)
+###
+
 <br clear="both">
 <h1 align="left">Hello! 👋 Viewers 😃</h1>
   <h4>
@@ -12,12 +16,10 @@ With a strong sense of continuous learning and passion for coding as well as man
 <h2 align="center"> 🙂 Please have a look on my profile and repositories💖.<br><br> 👇✌️ </h2>
 <br>
 
-###
-![gitartwork](gitartwork.svg)
-###
+
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
 
 ###
 ###
