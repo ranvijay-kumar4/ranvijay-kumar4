@@ -19,7 +19,7 @@ With a strong sense of continuous learning and passion for coding as well as man
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/ranvijay-kumar4/ranvijay-kumar4/output/snake.svg" alt="Snake animation" />
 
 ###
 
