@@ -188,7 +188,7 @@ With a strong sense of continuous learning and passion for coding as well as man
 
 <div align="center">
 ### <h1>😂 Random Dev Meme </h1>
-<img src='https://codermemes.vercel.app/' style="height: 400px;" />
+<img  height: 300; src="https://codermemes.vercel.app/" />
 </div>
 <br clear="both">
 
