@@ -60,13 +60,6 @@ With a strong sense of continuous learning and passion for coding as well as man
   <img width="50" />
   </div>
 
-###
-
-<br clear="both">
-
-<img align="right" height="150" src="https://media.tenor.com/A-xepNszV9YAAAAj/ai-bot.gif"  />
-
-###
 
 <br clear="both">
 
@@ -85,13 +78,6 @@ With a strong sense of continuous learning and passion for coding as well as man
 </div>
 
 ###
-
-<br clear="both">
-
-<img align="right" height="150" src="https://i.pinimg.com/originals/62/39/4d/62394d753859943e6a1a36443ef78795.gif"  />
-
-###
-
 <br clear="both">
 
 <h3 align="left">--> Platforms on which I worked upon ...</h3>
@@ -105,14 +91,6 @@ With a strong sense of continuous learning and passion for coding as well as man
   <img width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="60" alt="googlecloud logo"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc295aXE4YXZhMGxqbmVlYXhqeWszdm1zc2kxZ3YwNDkya2s3bWNybiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/AdtB8TtizElk0OrRGR/giphy.gif"  />
-
-###
 
 <br clear="both">
 
