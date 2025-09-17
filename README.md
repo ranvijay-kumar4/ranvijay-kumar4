@@ -17,16 +17,6 @@ With a strong sense of continuous learning and passion for coding as well as man
 <br>
 
 
-###
-
-<img align="left" height="150" src="https://media.giphy.com/media/11j5OF7BTglVkc/giphy.gif?cid=ecf05e47rt2fz4vxm9lma95sbhb8unz481cpl1dbdm6edura&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
-
-###
-
-<img align="right" height="150" src="https://miro.medium.com/v2/resize:fit:1358/0*ygaHmPjQnVmEApdT.gif"  />
-
-###
-
 <br clear="both">
 <br>
 <h2 align="left">--> Languages and frameworks am familiar with ...</h2>
