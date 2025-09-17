@@ -149,14 +149,6 @@ With a strong sense of continuous learning and passion for coding as well as man
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ranvijay-kumar4&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
-
-<span> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span>
-
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=ranvijay-kumar4&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
 <span> &nbsp; &nbsp; </span>
 
  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ranvijay-kumar4&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
@@ -184,12 +176,6 @@ With a strong sense of continuous learning and passion for coding as well as man
 
 ###
 
-<br clear="both">
-
-<div align="center">
-### <h1>😂 Random Dev Meme </h1>
-<img  height: 300; src="https://codermemes.vercel.app/#4" />
-</div>
 <br clear="both">
 
 <h4 align="center">💙 If you like my projects, Give them ⭐<br><br>💕<br><br>Thank You For Visiting my profile 💖</h4>
