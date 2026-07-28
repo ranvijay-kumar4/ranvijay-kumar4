@@ -3,183 +3,171 @@
 ###
 
 <br clear="both">
+# Hi there 👋 I'm Ranvijay Kumar
 
-<h1 align="left">👋 Hello Viewers! I'm Ranvijay 😃</h1>
+<h3 align="left">
+Full Stack Developer | MERN Stack | Software Engineer | Problem Solver
+</h3>
 
-<h4>
-I’m a <b>Full Stack Developer</b> specializing in the <b>MERN Stack</b>, passionate about building scalable, production-ready web applications using modern technologies.  
-Currently, I’m working as a <b>Software Developer Intern at MBG Card India Pvt. Ltd.</b> and previously contributed as a <b>Web Developer Intern at Savshka Communications Pvt. Ltd.</b>  
-I love crafting intuitive user experiences, optimizing performance, and solving real-world problems through code.
-</h4>
+I'm a Software Engineer passionate about building scalable web applications and solving real-world problems using modern technologies.
 
-<br>
+- 💻 Full Stack Developer (MERN)
+- 🚀 Passionate about Backend Development & System Design
+- 📚 Solved 250+ DSA problems in C++
+- 🌱 Currently learning Java, Spring Boot and Advanced Backend
+- ⚡ Interested in Scalable Systems, AI Applications and Cloud
 
-<h1>💫 About Me</h1>
-<h4>
-As a developer with a growth mindset, I embrace challenges and constantly seek opportunities to enhance my technical and creative abilities.  
-I thrive in collaborative environments and enjoy contributing to innovative projects that make an impact.  
-With a strong foundation in <b>Data Structures, Algorithms, and System Design</b>, I continuously evolve as a software engineer ready to create meaningful solutions. 🚀
-</h4>
+---
 
-<br>
+## 🚀 About Me
 
-<h3>🎓 Bachelor of Technology - Information Technology<br>Jabalpur Engineering College, Jabalpur (2022–2026)</h3>
+I'm a B.Tech graduate in Information Technology from **Jabalpur Engineering College (2022–2026)**.
 
-<h3>🌍 I'm from Delhi, India 🤞</h3>
+I enjoy designing and developing production-ready applications with clean architecture and modern technologies.
 
-<br>
+I have experience building:
 
-<h2 align="center">🙂 Explore my projects and repositories 💖<br><br>👇✌️</h2>
-<br>
+- Real-time applications
+- REST APIs
+- Authentication systems
+- Collaborative applications
+- Responsive user interfaces
 
-<hr>
+I'm always looking for opportunities where I can learn, build impactful products and grow as a Software Engineer.
 
-<h2 align="left">🧠 Languages I Code In</h2>
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="cplusplus logo"/>
-  <img width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"/>
-  <img width="40"/>
-  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"/>
-  <img width="40"/>
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"/>
-  <img width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="60" alt="c logo"/>
-  <img width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60" alt="postgresql logo"/>
-  <img width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"/>
-  <img width="40"/>
-  <img src="https://cdn.simpleicons.org/php/777BB4" height="60" alt="php logo"/>
-</div>
+## 🛠 Tech Stack
 
-<br>
+### Languages
 
-<h2 align="left">🎨 Frontend Technologies</h2>
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"/>
-  <img width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css3 logo"/>
-  <img width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="60" alt="bootstrap logo"/>
-  <img width="40"/>
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="60" alt="tailwindcss logo"/>
-  <img width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"/>
-  <img width="40"/>
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"/>
-  <img width="40"/>
-  <img src="https://skillicons.dev/icons?i=redux" height="60" alt="redux logo"/>
-  <img width="40"/>
-  <img src="https://skillicons.dev/icons?i=materialui" height="60" alt="mui logo"/>
-</div>
+### Frontend
 
-<br>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap)
 
-<h2 align="left">⚙️ Backend Technologies</h2>
+### Backend
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo"/>
-  <img width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="60" alt="express logo"/>
-  <img width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="60" alt="mongodb logo"/>
-  <img width="40"/>
-  <img src="https://skillicons.dev/icons?i=socketio" height="60" alt="socketio logo"/>
-</div>
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio)
 
-<h4>
-✅ JWT Authentication • REST API Development • Zod Validation • Real-time Apps using Socket.io
-</h4>
+### Tools
 
-<br>
+Git • GitHub • VS Code • Postman • Vercel • Netlify • Figma • Canva
 
-<h2 align="left">🧩 Core Subjects</h2>
-<h4>
-Data Structures (C++) | Algorithms (C++) | OOPs | Operating System | Computer Networks | DBMS
-</h4>
+---
 
-<br>
+# 🚀 Featured Projects
 
-<h2 align="left">🛠 Development & Design Tools</h2>
+## 💻 CodeSync
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode"/>
-  <img width="40"/>
-  <img src="https://skillicons.dev/icons?i=figma" height="60" alt="figma"/>
-  <img width="40"/>
-  <img src="https://skillicons.dev/icons?i=canva" height="60" alt="canva"/>
-  <img width="40"/>
-  <img src="https://skillicons.dev/icons?i=vercel" height="60" alt="vercel"/>
-  <img width="40"/>
-  <img src="https://skillicons.dev/icons?i=netlify" height="60" alt="netlify"/>
-  <img width="40"/>
-  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git"/>
-  <img width="40"/>
-  <img src="https://skillicons.dev/icons?i=github" height="60" alt="github"/>
-</div>
+Real-time collaborative code editor inspired by VS Code.
 
-<br>
+### Features
 
-<h2 align="left">🤖 AI Tools I Use</h2>
-<h4>
-Cursor | ChatGPT | DeepSeek | GitHub Copilot | V0 | Gamma | Perplexity | Gemini
-</h4>
+- Live Collaboration
+- Authentication (JWT)
+- Code Execution
+- Multiple Programming Languages
+- Room-based Collaboration
+- Socket.io
+- CodeMirror
+- Responsive UI
 
-<br>
+**Tech Stack**
 
-<h2 align="left">🌐 My Social Profiles</h2>
+React • Node.js • Express • MongoDB • Socket.io • CodeMirror • Piston API
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/ranvijay-kumar4/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="100" height="50" alt="linkedin logo"/>
-  </a>
-  <a href="https://twitter.com/ranvijay_kumar4" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="100" height="50" alt="twitter logo"/>
-  </a>
-  <a href="https://www.instagram.com/ranvijay_kumar4/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="100" height="50" alt="instagram logo"/>
-  </a>
-  <a href="https://www.hackerrank.com/profile/ranvijay_kumar4" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="100" height="50" alt="hackerrank logo"/>
-  </a>
-</div>
+---
 
-<br>
+## 📊 GitHub Explorer
 
-[![](https://visitcount.itsvg.in/api?id=ranvijay-kumar4&icon=6&color=0)](https://visitcount.itsvg.in)
+A responsive GitHub profile explorer built using GitHub REST API.
 
-<br>
+### Features
 
-# 📊 GitHub Stats:
-<div align="center">
-  <img width="690px" src="https://github-readme-activity-graph.vercel.app/graph?username=ranvijay-kumar4&theme=github">
-</div>
+- Repository Search
+- User Search
+- Repository Statistics
+- Responsive Design
 
-<h2>🔝 Top Contributed Repositories</h2>
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=ranvijay-kumar4&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
-</div>
+**Tech Stack**
 
-<h2>🏆 GitHub Trophies</h2>
-<img src="https://github-profile-trophy.vercel.app/?username=ranvijay-kumar4&theme=radical&no-frame=false&no-bg=false&margin-w=4"/>
+React • REST API • TailwindCSS
 
-<h2>👨‍💻 LeetCode</h2>
-<!-- <img src="https://leetcode-badge-showcase.vercel.app/api?username=ranvijay-kumar4&theme=github-dark" alt="LeetCode Badges"/> -->
+---
 
-<br>
+## 📈 GitHub Stats
 
-<h1 align="center">🚀 Engaged in the Path of Career Growth — Knowledge is my Achievement 💡</h1>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ranvijay-kumar4&show_icons=true&theme=github_dark"/>
+</p>
 
-<br>
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ranvijay-kumar4&theme=github-dark"/>
+</p>
 
-<h4 align="center">
-💙 If you like my projects, give them a ⭐ <br><br>💕<br><br>Thank You for Visiting my Profile 💖
-</h4>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranvijay-kumar4&layout=compact&theme=github_dark"/>
+</p>
 
-<div align="center">
-  <img height="200" src="https://hiddenfrontdoor.org/wp-content/uploads/2020/12/tenor.gif" />
-</div>
+---
 
+## 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ranvijay-kumar4&theme=github"/>
+</p>
+
+---
+
+## 🏆 Achievements
+
+- 🎓 B.Tech in Information Technology
+- 💻 250+ DSA Problems Solved
+- 🚀 Full Stack MERN Developer
+- ⚡ Built Real-Time Collaborative Applications
+- 🌍 Passionate about Open Source
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/ranvijay-kumar4">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="https://twitter.com/ranvijay_kumar4">
+<img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x">
+</a>
+
+<a href="https://www.instagram.com/ranvijay_kumar4">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+
+<a href="https://www.hackerrank.com/profile/ranvijay_kumar4">
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white">
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+⭐ If you like my work, consider starring my repositories!
+
+</p>
