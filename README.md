@@ -3,7 +3,7 @@
 ###
 
 <br clear="both">
-# Hi there 👋 I'm Ranvijay Kumar
+<h2> Hi there 👋 I'm <h1> Ranvijay Kumar </h1> </h2>
 
 <h3 align="left">
 Full Stack Developer | MERN Stack | Software Engineer | Problem Solver
