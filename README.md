@@ -84,11 +84,38 @@ Real-time collaborative code editor inspired by VS Code.
 - Socket.io
 - CodeMirror
 - Responsive UI
+- Gemini API
+- Judge0 docker Image
+- RAG and Langchain
+- Live suggestions
+- Code Review and error Solving
+- Syntax Highlighhting
 
 **Tech Stack**
 
-React • Node.js • Express • MongoDB • Socket.io • CodeMirror • Piston API
+React • Node.js • Express • MongoDB • Socket.io • CodeMirror • Piston API • JWT • Docker • Judge0 • Gemini API
 
+---
+## 🤖 AI Job Board
+
+An AI-powered job board that helps users discover, organize, and manage job opportunities with an intuitive, modern interface.
+
+### Features
+
+- 🔍 AI-assisted job discovery
+- 💼 Browse and search job listings
+- ❤️ Save and manage favorite jobs
+- 🔐 Secure user authentication
+- 📱 Responsive and modern UI
+- ⚡ Fast performance with optimized APIs
+
+**Tech Stack**
+
+React.js • Next.js • Node.js • Express • MongoDB • Gemini API • JWT • Tailwind CSS • Vercel • Gemini API
+
+**Live Demo:** https://ai-job-board-weld.vercel.app/
+
+**Repository:** *https://github.com/ranvijay-kumar4/AI_JobBoard*
 ---
 
 ## 📊 GitHub Explorer
